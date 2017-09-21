@@ -1,7 +1,7 @@
 
 class JamesBot
   def self.map
-    {
+    { 
       48 => "use freebsd, use clojure",
       99 => "be quiet, or i will replace you with a very small lisp macro.",
       69 => "shut up, i'm perpetrating lisp macros.",
