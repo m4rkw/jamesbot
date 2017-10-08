@@ -22,7 +22,8 @@ class JamesBot
       152 => "that's the sort of thing that brings back enthusiasm to drink",
       154 => "fascinating.",
       155 => "seriously if i have to google for you to make you shut up i will be most displeased",
-      160 => "use c++"
+      160 => "use c++",
+      161 => "dude where's my car?"
     }
   end
 
