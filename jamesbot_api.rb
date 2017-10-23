@@ -23,7 +23,8 @@ class JamesBot
       154 => "fascinating.",
       155 => "seriously if i have to google for you to make you shut up i will be most displeased",
       160 => "use c++",
-      161 => "dude where's my car?"
+      161 => "dude where's my car?",
+      162 => "duuude... what if... what if clojure is sativa and common lisp is.. indica!"
     }
   end
 
